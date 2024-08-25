@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Chaudharyabhay398
-- 👀 I’m interested in  web development
+- 👋 Hi, I’m Abhay Chaudhary
+- 👀 I’m interested in  web development & Artificial intelligence & machine learning
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
